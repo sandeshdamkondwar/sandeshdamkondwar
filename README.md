@@ -7,6 +7,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Solve rubiks cube with in ~45-50 seconds
 
+<br />
+<br />
+<br />
 
 ### Connect with me:
 
