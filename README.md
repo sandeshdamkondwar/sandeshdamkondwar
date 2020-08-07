@@ -9,6 +9,10 @@
 
 <br />
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=sandeshdamkondwar&show_icons=true)](https://github.com/sandeshdamkondwar)
+
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
 
 
