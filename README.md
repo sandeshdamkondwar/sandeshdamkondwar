@@ -1,4 +1,4 @@
-### Hi there, I'm Sandesh [website] 👋
+### Hi there, I'm Sandesh 👋
 
 - 🔭 I’m currently activel working on a [swiggy.in][swiggy]
 - 🌱 I’m currently learning everything 🤣
