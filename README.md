@@ -8,12 +8,9 @@
 - ⚡ Fun fact: Solve rubiks cube with in ~45-50 seconds
 
 <br />
-<br />
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
 
 ### Connect with me:
 
