@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**sandeshdamkondwar/sandeshdamkondwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm Sandesh [website] 👋
 
 - 🔭 I’m currently activel working on a [swiggy.in][swiggy]
@@ -11,7 +6,7 @@
 - 💬 Ask me about anything related to frontend
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Solve rubiks cube with in ~45-50 seconds
--->
+
 
 ### Connect with me:
 
