@@ -1,6 +1,6 @@
 ### Hi there, I'm Sandesh 👋
 
-- 🔭 I’m currently activel working on a [swiggy.in][swiggy]
+- 🔭 I’m currently actively working on a [swiggy.in][swiggy]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with open source contributors
 - 💬 Ask me about anything related to frontend
