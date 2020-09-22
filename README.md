@@ -1,7 +1,7 @@
 ### Hi there, I'm Sandesh 👋
 
-- 🔭 I’m currently actively working on a [swiggy.in][swiggy]
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Working with [https://razorpay.com/][razorpay]
+- 🌱 I’m currently learning(mastering) svelte & apollo
 - 👯 I’m looking to collaborate with open source contributors
 - 💬 Ask me about anything related to frontend
 - 🥅 2020 Goals: Stay 🏡 & contribute more to Open Source projects
