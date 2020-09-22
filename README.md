@@ -1,6 +1,6 @@
 ### Hi there, I'm Sandesh 👋
 
-- 🔭 Working with [https://razorpay.com](razorpay)
+- 🔭 Working with [Razorpay](https://razorpay.com "Razorpay")
 - 🌱 I’m currently learning(mastering) svelte & apollo
 - 👯 I’m looking to collaborate with open source contributors
 - 💬 Ask me about anything related to frontend
