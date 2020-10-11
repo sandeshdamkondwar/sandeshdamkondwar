@@ -3,7 +3,7 @@
 - 🔭 Working with [Razorpay](https://razorpay.com "Razorpay")
 - 🌱 I’m currently learning(mastering) svelte & apollo
 - 👯 I’m looking to collaborate with open source contributors
-- 💬 Ask me about anything related to frontend
+- 💬 Ask me anything related to frontend
 - 🥅 2020 Goals: Stay 🏡 & contribute more to Open Source projects
 - ⚡ Fun fact: Solve rubiks cube with in ~45-50 seconds
 
