@@ -25,7 +25,7 @@
 
 
 
-[website]: http://sandeshd.tech
+[website]: https://github.com/sandeshdamkondwar
 [swiggy]: https://swiggy.in
 [twitter]: https://twitter.com/sandydamy
 [instagram]: https://instagram.com/sandydamy
