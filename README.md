@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning(mastering) svelte & apollo
 - 👯 I’m looking to collaborate with open source contributors
 - 💬 Ask me anything related to frontend
-- 🥅 2020 Goals: Stay 🏡 & contribute more to Open Source projects
+- 🥅 2020 Goals: Work from 🏡 & contribute more to Open Source projects
 - ⚡ Fun fact: Solve rubiks cube with in ~45-50 seconds
 
